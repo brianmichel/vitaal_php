@@ -1,0 +1,20 @@
+.logo
+{
+	text-align: center;
+	background-color: #869DCA;
+	/*+placement:margin-auto -12px 189px;*/
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	left: -12px;
+	top: 189px;
+	width: 276px;
+	color: #FEFEFE;
+}
+.loginbox
+{
+	/*+placement:shift -12px 173px;*/
+	position: relative;
+	left: -12px;
+	top: 173px;
+}
